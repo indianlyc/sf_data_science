@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем?)  
-[3. Краткая информация о данных](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)   
-[5. Результат](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Результаты)   
-[6. Выводы](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Выводы)   
+[1. Описание проекта](https://github.com/indianlyc/sf_data_science/tree/main/project_0#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/indianlyc/sf_data_science/tree/main/project_0#какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/indianlyc/sf_data_science/tree/main/project_0#краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/indianlyc/sf_data_science/tree/main/project_0#этапы-работы-над-проектом)   
+[5. Результат](https://github.com/indianlyc/sf_data_science/tree/main/project_0#результаты)   
+[6. Выводы](https://github.com/indianlyc/sf_data_science/tree/main/project_0#выводы)   
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0#оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -28,7 +28,7 @@
 * Учимся работать с IDE.
 * Учимся работать с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0#оглавление)
 
 
 
@@ -36,7 +36,7 @@
 На входе мы имеем случайное число от 1 до 100.  
 После каждой попытки угадать мы получаем информацию о том больше загаданное число или меньше нашего предположения.  
 
-:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0#оглавление)
 
 ### Этапы работы над проектом
 1. Устанавливаем IDE
@@ -46,14 +46,14 @@
 5. Добавляем в репозиторий requirements.txt с зависимостями проекта
 6. Пишем новое решение которое угадывает в среднем быстрее чем за 20 попыток
 
-:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0#оглавление)
 
 ### Результаты
 Новое решение на основе бинарного поиска угадывает случайное число от 1 до 100 в среднем за 5 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0#оглавление)
 
 ### Выводы
 Бинарный поиск работает намного быстрее случайного угадывания.
 
-:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0#оглавление)
