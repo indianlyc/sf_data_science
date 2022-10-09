@@ -49,9 +49,11 @@
 :arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Результаты
-....
+Новое решение на основе бинарного поиска угадывает случайное число от 1 до 100 в среднем за 5 попыток.
+
 :arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 ### Выводы
-....
+Бинарный поиск работает намного быстрее случайного угадывания.
+
 :arrow_up:[к оглавлению](https://github.com/indianlyc/sf_data_science/tree/main/project_0/README.md#Оглавление)
